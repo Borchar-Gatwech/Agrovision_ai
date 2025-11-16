@@ -136,4 +136,4 @@ Dashboard visualizes responses, predictions, insights, and forecasts
 Name	Role
 Brian Kipchumba	Frontend Development
 Faith Kiplagat	Backend & Database Integration
-Borchar Gatwetch	Machine Learning & AI Integration
+Borchar Gatwech	Machine Learning & AI Integration
